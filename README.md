@@ -12,4 +12,6 @@ Skills: JS / HTML / CSS / REACT
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alossada)  
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 ![Profile views](https://gpvc.arturio.dev/alossada)  
