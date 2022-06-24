@@ -8,7 +8,7 @@ Skills: JS / HTML / CSS / REACT
 - 🌱 I’m currently learning REACT 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alossada&count_private=true&show_icons=true&theme=THEME_NAME)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alossada&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
