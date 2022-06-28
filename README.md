@@ -1,4 +1,6 @@
 ### Hi there 👋, my name is Angélica
+![Profile views](https://gpvc.arturio.dev/alossada)  
+
 #### I am Front End Developer
 I am being part of an intensive bootcamp in which we learn to develop web applications under an agile culture, using Javascript, HTML, CSS, node.JS, Git and Github.
 
@@ -13,4 +15,4 @@ Skills: JS / HTML / CSS / REACT
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alossada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Profile views](https://gpvc.arturio.dev/alossada)  
+
