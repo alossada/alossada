@@ -6,7 +6,7 @@ I am being part of an intensive bootcamp in which we learn to develop web applic
 
 Skills: JS / HTML / CSS / REACT
 
-- 🔭 I’m currently working on Burguer Queen API 
+- 🔭 I’m currently working on Lab notes
 - 🌱 I’m currently learning REACT 
 
 
